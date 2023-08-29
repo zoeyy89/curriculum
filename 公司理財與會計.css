@@ -1,0 +1,37 @@
+.btn-group .button {
+  background-color: #ffffff;
+  border: 1px solid white;
+  color: black;
+  border-radius: 10px;
+  padding: 5px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  float: left;
+}
+
+.btn-group .button:not(:last-child) {
+  border-right: none; /* Prevent double borders */
+}
+
+.btn-group .button:hover {
+  background-color: #F5E4C8;
+}
+</style>
+
+<div class="btn-group">
+<button class="button"><a href="https://curriculum.ncnu.edu.tw/var/file/49/1049/img/391/181052052.pdf">
+<img src="https://curriculum.ncnu.edu.tw/var/file/49/1049/img/423/302267304.png" width="170" /></a></button>
+
+<button class="button"><a href="https://curriculum.ncnu.edu.tw/var/file/49/1049/img/391/726524933.pdf"><img src="https://curriculum.ncnu.edu.tw/var/file/49/1049/img/423/443118325.png" width="170" /></a></button>
+
+<button class="button"><a href="https://curriculum.ncnu.edu.tw/var/file/49/1049/img/391/867875033.pdf"><img src="https://curriculum.ncnu.edu.tw/var/file/49/1049/img/423/660314486.png" width="170" /></a></button>
+
+<button class="button"><a href="https://curriculum.ncnu.edu.tw/var/file/49/1049/img/391/407409116.pdf"><img src="https://curriculum.ncnu.edu.tw/var/file/49/1049/img/423/756585412.png" width="170" /></a></button>
+
+<button class="button"><img src="https://curriculum.ncnu.edu.tw/var/file/49/1049/img/423/834519979.png" width="170" /></button></div>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
